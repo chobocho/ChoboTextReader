@@ -1,0 +1,2 @@
+# ChoboTextReader
+Chobo Text Reader
